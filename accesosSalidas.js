@@ -1,6 +1,6 @@
 const mongoose = require("mongoose"); // Import mongooseDB
 
-// Schema for counter functionality plus
+// Schema for counter functionality
 const counterSchema = new mongoose.Schema({
   // Schema for counter
   _id: String,
